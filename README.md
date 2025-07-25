@@ -3,6 +3,8 @@
 A modern, interactive web dashboard for salary prediction and analytics using Streamlit and Machine Learning. Instantly predict your likely salary based on age, gender, education, job title, and work experience—or explore data insights, filter, and download results.  
 **Impress interviewers or streamline HR analytics with just one click!**
 
+**Link:** https://salary-prediction-dashboard.streamlit.app/
+
 ## Table of Contents
 
 - [Demo](#demo)
