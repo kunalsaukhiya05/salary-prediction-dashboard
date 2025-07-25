@@ -26,7 +26,7 @@ st.markdown("Use this tool to explore, filter, and predict salaries based on rea
 # ----- Data Loading Function ----- #
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Salary_Data.csv")
+    df = pd.read_csv("Salary_Prediction-main/Salary_Data.csv")
     return df
 
 df = load_data()
